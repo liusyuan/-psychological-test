@@ -1,0 +1,74 @@
+td, th {
+    border: dashed 1px blue;
+}
+.menu {
+    color: white;
+    background-color: #565aff;
+    border: 0px;
+    border-left: 1px solid;
+    font-size: 20px;
+    padding: 10px;
+    margin: 0px;
+    height: 100%;
+    cursor: pointer;
+}
+.div {
+    margin: 0 auto;
+    width: 100%;
+    text-align: center;
+}
+.box {
+    width: 310px;
+    border-radius: 6px;
+    border: solid 1px #ddd;
+    font-size: 15px;
+    padding: 10px;
+    margin-bottom: 30px;
+}
+
+.form {
+    width: 600px;
+    border-radius: 6px;
+    border: solid 1px #ddd;
+    font-size: 15px;
+    padding-bottom: 20px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.textarea{
+    width: 310px;
+    border-radius: 6px;
+    border: solid 1px #ddd;
+    font-size: 15px;
+    padding: 10px;
+    margin-top: 15px;
+    margin-bottom: 30px;
+    resize:none;
+}
+.form  div{
+    width: 310px;
+    border-radius: 6px;
+    border: solid 1px #ddd;
+    font-size: 15px;
+    padding: 10px;
+    margin: 0px auto;
+    color: blue;
+}
+
+.btn {
+    cursor: pointer;
+    font-size: 15px;
+    width: 120px;
+    padding: 10px;
+}
+
+.logbtn {
+    background-color: #7496dd;
+    color: white;
+    border: 0px;
+    font-size: 16px;
+    padding: 10px;
+    width: 150px;
+    cursor: pointer;
+}
